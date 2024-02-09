@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "expo-cli": "^4.0.17"
+  },
+  "dependencies": {
+    "package-name": "^0.1.0"
+  }
 }
